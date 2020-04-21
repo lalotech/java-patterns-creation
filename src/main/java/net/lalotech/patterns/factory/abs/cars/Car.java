@@ -1,4 +1,4 @@
-package net.lalotech.patterns.factory.model;
+package net.lalotech.patterns.factory.abs.cars;
 
 public abstract class Car {
 
